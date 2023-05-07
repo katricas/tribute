@@ -1,2 +1,2 @@
 # Tribute
- Es una pagina de tributo que armé cuando hice el curso de freecodecamp
+¡Creé una página de homenaje para Hachiko en mi curso de Freecodecamp! Destacando su lealtad y amor hacia su dueño. 🐕❤️ #Hachiko #Freecodecamp
